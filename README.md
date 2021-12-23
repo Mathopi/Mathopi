@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mathopi
 - 👀 I’m interested in information and communication technologies.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Cpython.
 - 💞️ I’m looking to collaborate on advanced python projects.
 - 📫 How to reach me @ telegram https://t.me/cymanthecreator
 <!---
